@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Panachat Aiamnam",
+      "email": "panachat1183@gmail.com",
+      "password": "1q2w3e4r",
+      "gender": "Male"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+   "checksum": "c197eccaf8ee3b927370d7ca3d44da60",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "date_last_used": "13337364424031325",
+            "guid": "7cd3fa1d-16af-4c00-85d0-1fbc9ed412c9",
+            "id": "24",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/?reload=9"
+         }, {
+            "date_added": "0",
+            "date_last_used": "13332879756609606",
+            "guid": "942dccea-83f8-4e4c-b08e-467f785e6b63",
+            "id": "25",
+            "name": "Home · AniList",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://anilist.co/home"
+         }, {
+            "date_added": "0",
+            "date_last_used": "13332880041700060",
+            "guid": "1ab5f006-e52e-4cc6-8954-eee7ec20b0a3",
+            "id": "26",
+            "name": "MyAnimeList.net - Panel",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://myanimelist.net/#"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "567d4687-76f3-42d4-a04f-ec13880e0f63",
+            "id": "27",
+            "name": "หน้าแรก",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aisplay.ais.co.th/portal/"
+         } ],
+         "date_added": "13337676827159964",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "98f2f4b2-fdb8-4819-84cf-e2195edba628",
+               "id": "7",
+               "name": "Google",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.google.co.th/?gws_rd=cr&ei=kzXRUpKZMI-hiAeG0IDICQ"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "64b77bd6-1725-4bbb-a8d6-8ef3eb860ab1",
+               "id": "8",
+               "name": "Google",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.google.co.th/?gws_rd=cr&ei=vzXRUq7IIoSEiAfO2YCIDQ"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "b045f8bb-d053-4d35-b140-5d3a170f940d",
+               "id": "9",
+               "name": "Eggs - Dragon City Wiki",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://dragoncity.wikia.com/wiki/Eggs?file=Kratus_Dragon_3.png"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "eb854523-73e6-4310-9b14-ecd6a7d9207e",
+               "id": "10",
+               "name": "New Tab",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "chrome://newtab/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "a896232d-967d-4da8-93a8-9c96c20299ae",
+               "id": "11",
+               "name": "Pump It Up The Ultimate Dance Workout 2004 (full video) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ZsVp7wRWG7I"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "66943b4e-0f6e-43bb-b5c5-1ac84973c387",
+               "id": "12",
+               "name": "คีตะมวยไทย",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=xpBGW-HGGFY"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "bda3b47d-a55e-426c-aadf-c5b7fcf24ce0",
+               "id": "13",
+               "name": "หุ่นแซ่บ21วัน",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=1CGQ627u2Pc"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "b88a22a2-ce82-4128-82c4-201b830cc461",
+               "id": "14",
+               "name": "HIIT Cardio and Abs Workout - 30 Minute At Home HIIT Workout with Abs Exercises - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=pNZe01hqMW8"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "980419d1-07b0-400c-99f1-777a1766d85f",
+               "id": "15",
+               "name": "30 Minutes Aerobic Dance Workout To Lose Belly Fat - Cardio Workout At Home For Women No Equipment - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=84AXtEGUnv0"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "92bee8c7-a9b0-4287-b365-48c69db8a4cd",
+               "id": "16",
+               "name": "ลดไขมันหน้าท้อง วันละ10 นาที ( Sexy Abs/6 pack E.1) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2VCSuwIJbs8"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "31fcff5c-fbb0-49db-a385-e002cb2750e3",
+               "id": "17",
+               "name": "LINE TV",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://tv.line.me/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "7e442698-056f-408f-94b9-599640937aa0",
+               "id": "18",
+               "name": "Cari Pokemon โปเกมอนแดนซ์ (ปิจก้าจู) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=jrTcakydkJw"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "1e184f7a-8a4e-4a0c-800b-9fbf52ca4096",
+               "id": "19",
+               "name": "Aerobic Dance Workout For Beginners Step By Step - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ywjgkcVii2A"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "96bb3d4f-3636-4add-b7d8-a38352f0782d",
+               "id": "20",
+               "name": "ของฮ่าง ผู้สาวขี้เหล้า แดนซ์ NONSTOP 2017 ใหม่ล่าสุด | SongkarnRMX - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=twfNxeB_RT8"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "eae981af-4d73-4edb-a470-56f3f9fceb91",
+               "id": "21",
+               "name": "YouTube เพื่อแปลง MP3 - โหลดเพลงจากยูทูป - TheYouMp3",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.theyoump3.com/thai/"
+            } ],
+            "date_added": "13332849557540257",
+            "date_last_used": "0",
+            "date_modified": "13332849557540257",
+            "guid": "d2b2934e-c230-4372-827e-c2016fc6c417",
+            "id": "6",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "12a4a78c-6ab9-4895-9428-46551fa667da",
+               "id": "23",
+               "name": "Anime-Sugoi | ดูการ์ตูน ดูAnime ดูการ์ตูนออนไลน์ อนิเมะพากย์ไทย อนิเมะซับไทย",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.anime-sugoi.com/"
+            } ],
+            "date_added": "13332849557541631",
+            "date_last_used": "0",
+            "date_modified": "13332849557541631",
+            "guid": "c86723bb-2260-47a3-813d-08dcd608bdea",
+            "id": "22",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13337676827159967",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13337676827159978",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCFc1yTqKAQAAEgAgASoYZWczS3VNdTd0RjhHRGw1dE9LUk5oQT09oAYMEqgBCBsSowEKHG1jRTU4L0doZ2FHVHRQalFmUTVrcGpQeUZNND0SJDU2N2Q0Njg3LTc2ZjMtNDJkNC1hMDRmLWVjMTM4ODBlMGY2MxgAIAAoADD/vbLYkTE4zcCy2JExQM3AstiRMUoccFhBQXBqQkVGWENub2RvRWhMLyt6OVdxOEl3PVofIh31SVhGY3BzRG80dHZ2UkxwT3MwYWM2WVlMMEo4PWUAAAAAEqgBCBYSowEKHFdjeVQyYWNueHFhVkRFWTJyOXI3S0tWMy9xWT0SJGM4NjcyM2JiLTIyNjAtNDdhMy04MTNkLTA4ZGNkNjA4YmRlYRgAIAAoADCQvrLYkTE4mMSy2JExQJjEstiRMUocSEJQK0Nod1lGTkw4eVh0MTU3aHRzbG1LSGdvPVofIh24TEJPM04vbTJtNC82UUgrVS9nRktuNWRCTWlvPWUAAAAAEqgBCBgSowEKHDZBR044cmNIVmt4NndIWDY1N1FwaEpTYXhpcz0SJDdjZDNmYTFkLTE2YWYtNGMwMC04NWQwLTFmYmM5ZWQ0MTJjORgAIAIoAjCdxJzWozE4mcCy2JExQK2SnNajMUocVmJhUnV0ZUIxNHVlMVRBUmlLWXllUVJwSnJZPVofIh2oQzZvM0RCYUdvSE10cHNhaUpnSUl2RGJrR1M4PWXY1mr0EqcBCBcSogEKHGtKQ3FoMXJRd0RBR0hWZ2xGVHI1OFRHNmZJWT0SJDEyYTRhNzhjLTZhYjktNDg5NS05NDI4LTQ2NTUxZmE2NjdkYRgAIAAoADC8yLLYkTE4vtWy2JExQL7VstiRMUocdi8xaDlDZ05EZHZ2VXRiUnhxb09jYkZlbUlJPVoeIhxSUmNVYndpKzFVc2p0cXhya1RyNUtRL2xUU1E9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZTMxNDc3NDctNjFmMS01MjczLWI3MDMtZTQzZGQxZmNjYzUzGAAgACgAMKaq5aqHLjj59LHb/i9A+fSx2/4vShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKpAQgQEqQBChw1by9KNXhaUnFQQlRkMUZDL0hnVGZJZmlWQWc9EiQ5MmJlZThjNy1hOWIwLTQyODctYjM2NS00OGM2OWRiOGE0Y2QYACAAKAAwir6y2JExOPDCstiRMUDwwrLYkTFKHE9QYWpDYUVnbUZVd0RCNU5oeHZ0V0hUS3Yzdz1aICIe/6ZJM0FGVmlMR2FuYnlkKytaTzR0VURwTWRTTWs9ZQAAAAASqAEIGRKjAQocLzduOFdleERrZno2VW9kakFXeE1SRzVWOHVjPRIkOTQyZGNjZWEtODNmOC00ZTRjLWIwOGUtNDY3Zjc4NWU2YjYzGAAgAigCMJzEnNajMTizwLLYkTFArpKc1qMxShx4d3VKQ0RRWkJ3Y3FiQkV2Y0w4aUFFeDdLK1k9Wh8iHdRMczFJTlBxOHVpT2RvalFlb3g1bm5uYlhRZnM9ZVPqaK8SqQEIFRKkAQocclBHRW5STy9Vamp0a1FmaHNJcVJraCtsdHVVPRIkZWFlOTgxYWYtNGQ3My00ZWRiLWE0NzAtNTZmM2Y5ZmNlYjkxGAAgACgAMI++stiRMTj9w7LYkTFA/cOy2JExShxwZHlGY3dueTBVM2ZvTGY1TXozaTJiUUJVSTA9WiAiHv/9c2RTZUlZeDBJU3Q2bitjTXU3NWpMNEdRRmZrPWUAAAAAEqkBCBISpAEKHFl4VUhTZWJDYmhyT01DZUNkMnU5RkF3ZUM0Zz0SJDdlNDQyNjk4LTA1NmYtNDA4Zi05NGI5LTU5OTY0MDkzN2FhMBgAIAAoADCMvrLYkTE4ocOy2JExQKHDstiRMUocNzZTeVhhMWJ1dmIrVEMwNVdSR1dRV3d4d2QwPVogIh7/6XhYL2RkaWVkb2tyNUl1bkd2eENRVDZLRkZsZz1lAAAAABKpAQgUEqQBChx4SE11ZkpjZHQyc0Mzbkt4K214S25FdHQwMkU9EiQ5NmJiM2Q0Zi0zNjM2LTRhZGQtYjdkOC1hMzgzNTJmMDc4MmQYACAAKAAwjr6y2JExOOXDstiRMUDlw7LYkTFKHDhjaVRQWlV3RC9Ca0pyOGlFdVpMZlViSVpmOD1aICIe//pCeGF4bndWTnZqbzh4OVc1YllmejRQbDBrVWc9ZQAAAAASqAEIGhKjAQocdm5RMjhkcGJ6VFRmdW5md0d0SEZGdll1WEE0PRIkMWFiNWYwMDYtZTUyZS00Y2M2LTg5NTQtZWVlN2VjMjBiMGEzGAAgAigCMJvEnNajMTio1bLYkTFArpKc1qMxShx3ZWM3dThYdlF3VU5XYWw4ODVyK2p5RzJ3MUU9Wh8iHepRYW9naHRHMnFLZEFoWm5zU3hpNjJQL1h3cUE9ZXjOVz8SqQEIExKkAQocQ1BsWDI3T0NNa2tWQmNKRGxDaUhVdHQ2ckswPRIkMWUxODRmN2EtOGE0ZS00YTBjLTgwMGItOWZiZjUyY2E0MDk2GAAgACgAMI2+stiRMTi4w7LYkTFAuMOy2JExShwrYmRyL3dCbmx6SjhvMFpJVjhYdmE4aXRhZEk9WiAiHv/0SUpEZVNnQTE1dFlTcWhSM0JiTEIvWjhHK2VNPWUAAAAAEqkBCBESpAEKHEtLdjVvSVZQMDNUNlR2ZE05bFZTU2RHNGp6RT0SJDMxZmNmZjVjLWZiYjAtNDlkYi1hMzg1LWUwMDJjYjI3NTBlMxgAIAAoADCLvrLYkTE4icOy2JExQInDstiRMUocbDVuOU9zM1hMK29KeVNjd0JyOEw3Z3RZTFRjPVogIh7/005udnNvbVpTNmZBdVdZSGtJUlpIb2hiUThkcz1lAAAAABKoAQgPEqMBChx0ZGk0Q1JtR3pnSGdOYmFyTlJraUVLU0NoV2M9EiQ5ODA0MTlkMS0wN2IwLTQwMGMtOTlmMS03NzdhMTc2NmQ4NWYYACAAKAAwib6y2JExONLCstiRMUDSwrLYkTFKHDdYN2c5eUoycjZXLzVVNGlxcUtxbkFlOStwVT1aHyId/0xDN1VWT0p2K0VHUUF3b0N2SkQ1dFMvZFcrbz1lAAAAABKnAQgHEqIBChx3c0YvQnM4ODBuZ05ZajhZRDRJeitaOG1EOGM9EiQ5OGYyZjRiMi1mZGI4LTQ4MTktODRjZi1lMjE5NWVkYmE2MjgYACAAKAAwgb6y2JExOIPBstiRMUCDwbLYkTFKHFhzb29DQjY3emhzblpzZ25IVkJHTDNPWGhsQT1aHiIcY3JNMjFweFNmSHZVZXhlMHUwUzRFMlRLRkZFPWUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGU5ZDM1OWNlLTE2MTgtNTI1MC1iMjgyLTZlYjQ3MGEzYWQ0ORgAIAAoADClquWqhy446vSx2/4vQOr0sdv+L0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqAEIDBKjAQocY0RRK3JuRmpwcHVjaC9wNElubC9PL0h0QUVJPRIkNjY5NDNiNGUtMGY2ZS00M2JiLWI1YzUtMWFjODQ5NzNjMzg3GAAgACgAMIa+stiRMTiEwrLYkTFAhMKy2JExShw3ZTUzYWtrR3ZLRFIraVhWQWJ2S0pQU3U1L2c9Wh8iHfsyV3Y5bUt0bVZaL2lVdU1PRkpJdEZzaVV2b3c9ZQAAAAASqAEIDRKjAQocNlpvYldJRExWRlZRZmpEK3JHNFhZRm5JdUdJPRIkYmRhM2I0N2QtYTU1ZS00MjZjLWFhZGYtYzViN2ZjZjI0Y2UwGAAgACgAMIe+stiRMTigwrLYkTFAoMKy2JExShwvY0VrdUJXdkVhS1BZcThBbWNlM3ZGQ2IyMDA9Wh8iHf1pc1V4amVzdWV1SVdTeDc5QVQ1N2p0dE0rQmM9ZQAAAAASqAEIDhKjAQocMGxRaWZhOEVMWnVKVkpwMzJDdTJ1aG00VVg4PRIkYjg4YTIyYTItY2U4Mi00MTI4LTgyYzQtMjAxYjgzMGNjNDYxGAAgACgAMIi+stiRMTi5wrLYkTFAucKy2JExShxXTGdoU1plWXFJUE15Y0lRTWlsbzdWU0Vrdzg9Wh8iHf5FT2ZLN3ZVRUVXZC9QTExOMVZxWTVDTmJDSU09ZQAAAAASqAEICxKjAQocdFlsRlFxZ2hsSEdvZmlWT2NDaGIwUXdXZG5zPRIkYTg5NjIzMmQtOTY3ZC00ZGE4LTkzYTgtOWM5NmMyMDI5OWFlGAAgACgAMIW+stiRMTjnwbLYkTFA58Gy2JExShxGUE1ZdnQvdlloU3BNc1M3ZDdrYStkWXhoZWM9Wh8iHfZ5UjBGRkhPb1RWdXdhbUZRUS9rNEZEME1kRVE9ZQAAAAASqAEIChKjAQocZStlNlpubE85Uk45ZmpqaS8vVEVncnZUOE84PRIkZWI4NTQ1MjMtNzNlNi00MzEwLTliMTQtZWNkNmE3ZDkyMDdlGAAgACgAMIS+stiRMTjNwbLYkTFAzcGy2JExShw2Z2Q0S1hIZ2xDS0NzV3VjRGhnbWhIWUVnVk09Wh8iHextelh5SHc0b0liaFdDa0YwU3JxM2JSaXFmN0U9ZQAAAAASqAEICRKjAQocL2pJdk0ySWhHNFdIOHZXeUFUb3Q0R2dtZUI4PRIkYjA0NWY4YmItZDA1My00ZDM1LWIxNDAtNWQzYTE3MGY5NDBkGAAgACgAMIO+stiRMTi1wbLYkTFAtcGy2JExShxGUHBXdEhyUXpMMlVCYlZWVnVmcHhJcklKQ3M9Wh8iHdh0NC9OMk5ZeHUyNXl4dDNOZHFJbHZ2V2RzelE9ZQAAAAASpwEIBhKiAQocM1h2djFjVkU3b20wOENFMk9nZ2VKVDdVQzFFPRIkZDJiMjkzNGUtYzIzMC00MzcyLTgyN2UtYzIwMTZmYzZjNDE3GAAgACgAMIC+stiRMTjowLLYkTFA6MCy2JExShxtQXRCZklhbHo3Wm4xMjBlSWxWZjcxdXY0SGc9Wh4iHHBPMTA4eWNtZVlNWnFjRTdZSkFaYUlYY2pScz1lAAAAABKoAQgIEqMBChxCQWIrZXU4RU1NU3UySmtSZlNpa2NNWitZMDQ9EiQ2NGI3N2JkNi0xNzI1LTRiYmItYThkNi04ZWYzZWI4NjBhYjEYACAAKAAwgr6y2JExOJ3BstiRMUCdwbLYkTFKHEJFT01FZ00wUUgxSkhvK3hhelkvYjIyOW5ydz1aHyIdsVByNnZFYWxyNWxkeXpHdkJrNFpzSDU1VTkzTT1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ0MDQ5ZjZlNC0yNTQ4LTViYjctYTc3Mi1lMDExNGQxZDBkNDQYACAAKAAwqqrlqocuOMj1sdv+L0DI9bHb/i9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}

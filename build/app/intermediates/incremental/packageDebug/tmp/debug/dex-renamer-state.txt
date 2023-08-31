@@ -1,0 +1,4 @@
+#Thu Aug 31 15:52:39 ICT 2023
+base.0=D\:\\walailak\\Year_3_Semester_1\\mobile\\crud\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
